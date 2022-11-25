@@ -18,5 +18,11 @@
     <ClCompile Include="test11.23.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test11.25.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="add.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,5 +1,5 @@
-#define _CRT_SECURE_NO_WARNINGS 1
-#include <stdio.h>
+//#define _CRT_SECURE_NO_WARNINGS 1
+//#include <stdio.h>
 
 
 //
@@ -32,13 +32,13 @@
 //	return 0;
 //}
 
-int main() {
-	char arr1[] = "hello";
-	char arr2[] = { 'h', 'e', 'l','l', '0' };
-	char arr3[] = { 'h', 'e', 'l','l', '0', '\0' };
-	printf("%s\n", arr1); 
-	printf("%s\n", arr2); 
-	printf("%s\n", arr3); 
-	return 0;
-
-}
+//int main() {
+//	char arr1[] = "hello";
+//	char arr2[] = { 'h', 'e', 'l','l', '0' };
+//	char arr3[] = { 'h', 'e', 'l','l', '0', '\0' };
+//	printf("%s\n", arr1); 
+//	printf("%s\n", arr2); 
+//	printf("%s\n", arr3); 
+//	return 0;
+//
+//}
